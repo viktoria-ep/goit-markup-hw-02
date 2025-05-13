@@ -37,8 +37,8 @@ ul {
   color: #2e2f42;
 }
 
-.header-nav .link:hover,
-.link:focus {
+.header-nav:hover,
+.header-nav:focus {
   color: #404bbf;
 }
 
@@ -54,8 +54,8 @@ ul {
   color: #434455;
 }
 
-.address-item .link:hover,
-.link:focus {
+.address-item:hover,
+.address-item:focus {
   color: #404bbf;
 }
 
@@ -83,8 +83,8 @@ ul {
   cursor: pointer;
 }
 
-.hero-button .link:hover,
-.link:focus {
+.hero-button:hover,
+.hero-button:focus {
   background-color: #404bbf;
 }
 
